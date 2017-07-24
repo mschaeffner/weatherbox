@@ -1,0 +1,251 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ForecastContent should show details for a given forecast data object 1`] = `
+<div>
+  <div>
+    25.07.2017 03:00
+    <img
+      src="http://openweathermap.org/img/w/10d.png"
+    />
+    light rain and 23°C
+  </div>
+  <div>
+    25.07.2017 06:00
+    <img
+      src="http://openweathermap.org/img/w/04d.png"
+    />
+    broken clouds and 21°C
+  </div>
+  <div>
+    25.07.2017 09:00
+    <img
+      src="http://openweathermap.org/img/w/04n.png"
+    />
+    broken clouds and 19°C
+  </div>
+  <div>
+    25.07.2017 12:00
+    <img
+      src="http://openweathermap.org/img/w/10n.png"
+    />
+    light rain and 17°C
+  </div>
+  <div>
+    25.07.2017 15:00
+    <img
+      src="http://openweathermap.org/img/w/04n.png"
+    />
+    overcast clouds and 16°C
+  </div>
+  <div>
+    25.07.2017 18:00
+    <img
+      src="http://openweathermap.org/img/w/10d.png"
+    />
+    light rain and 16°C
+  </div>
+  <div>
+    25.07.2017 21:00
+    <img
+      src="http://openweathermap.org/img/w/10d.png"
+    />
+    light rain and 18°C
+  </div>
+  <div>
+    26.07.2017 00:00
+    <img
+      src="http://openweathermap.org/img/w/10d.png"
+    />
+    light rain and 18°C
+  </div>
+  <div>
+    26.07.2017 03:00
+    <img
+      src="http://openweathermap.org/img/w/10d.png"
+    />
+    light rain and 17°C
+  </div>
+  <div>
+    26.07.2017 06:00
+    <img
+      src="http://openweathermap.org/img/w/10d.png"
+    />
+    light rain and 17°C
+  </div>
+  <div>
+    26.07.2017 09:00
+    <img
+      src="http://openweathermap.org/img/w/10n.png"
+    />
+    light rain and 17°C
+  </div>
+  <div>
+    26.07.2017 12:00
+    <img
+      src="http://openweathermap.org/img/w/10n.png"
+    />
+    light rain and 17°C
+  </div>
+  <div>
+    26.07.2017 15:00
+    <img
+      src="http://openweathermap.org/img/w/10n.png"
+    />
+    light rain and 16°C
+  </div>
+  <div>
+    26.07.2017 18:00
+    <img
+      src="http://openweathermap.org/img/w/10d.png"
+    />
+    moderate rain and 16°C
+  </div>
+  <div>
+    26.07.2017 21:00
+    <img
+      src="http://openweathermap.org/img/w/10d.png"
+    />
+    moderate rain and 17°C
+  </div>
+  <div>
+    27.07.2017 00:00
+    <img
+      src="http://openweathermap.org/img/w/10d.png"
+    />
+    light rain and 17°C
+  </div>
+  <div>
+    27.07.2017 03:00
+    <img
+      src="http://openweathermap.org/img/w/10d.png"
+    />
+    light rain and 17°C
+  </div>
+  <div>
+    27.07.2017 06:00
+    <img
+      src="http://openweathermap.org/img/w/10d.png"
+    />
+    light rain and 17°C
+  </div>
+  <div>
+    27.07.2017 09:00
+    <img
+      src="http://openweathermap.org/img/w/10n.png"
+    />
+    light rain and 16°C
+  </div>
+  <div>
+    27.07.2017 12:00
+    <img
+      src="http://openweathermap.org/img/w/10n.png"
+    />
+    light rain and 16°C
+  </div>
+  <div>
+    27.07.2017 15:00
+    <img
+      src="http://openweathermap.org/img/w/02n.png"
+    />
+    clear sky and 14°C
+  </div>
+  <div>
+    27.07.2017 18:00
+    <img
+      src="http://openweathermap.org/img/w/01d.png"
+    />
+    clear sky and 16°C
+  </div>
+  <div>
+    27.07.2017 21:00
+    <img
+      src="http://openweathermap.org/img/w/01d.png"
+    />
+    clear sky and 20°C
+  </div>
+  <div>
+    28.07.2017 00:00
+    <img
+      src="http://openweathermap.org/img/w/02d.png"
+    />
+    few clouds and 23°C
+  </div>
+  <div>
+    28.07.2017 03:00
+    <img
+      src="http://openweathermap.org/img/w/10d.png"
+    />
+    light rain and 21°C
+  </div>
+  <div>
+    28.07.2017 06:00
+    <img
+      src="http://openweathermap.org/img/w/10d.png"
+    />
+    light rain and 19°C
+  </div>
+  <div>
+    28.07.2017 09:00
+    <img
+      src="http://openweathermap.org/img/w/10n.png"
+    />
+    light rain and 18°C
+  </div>
+  <div>
+    28.07.2017 12:00
+    <img
+      src="http://openweathermap.org/img/w/10n.png"
+    />
+    light rain and 18°C
+  </div>
+  <div>
+    28.07.2017 15:00
+    <img
+      src="http://openweathermap.org/img/w/10n.png"
+    />
+    light rain and 17°C
+  </div>
+  <div>
+    28.07.2017 18:00
+    <img
+      src="http://openweathermap.org/img/w/10d.png"
+    />
+    light rain and 16°C
+  </div>
+  <div>
+    28.07.2017 21:00
+    <img
+      src="http://openweathermap.org/img/w/10d.png"
+    />
+    light rain and 17°C
+  </div>
+  <div>
+    29.07.2017 00:00
+    <img
+      src="http://openweathermap.org/img/w/10d.png"
+    />
+    light rain and 20°C
+  </div>
+  <div>
+    29.07.2017 03:00
+    <img
+      src="http://openweathermap.org/img/w/03d.png"
+    />
+    scattered clouds and 19°C
+  </div>
+  <div>
+    29.07.2017 06:00
+    <img
+      src="http://openweathermap.org/img/w/03d.png"
+    />
+    scattered clouds and 18°C
+  </div>
+  <div>
+    29.07.2017 09:00
+    <img
+      src="http://openweathermap.org/img/w/02n.png"
+    />
+    few clouds and 15°C
+  </div>
+</div>
+`;

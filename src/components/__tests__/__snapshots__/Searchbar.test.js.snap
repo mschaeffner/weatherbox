@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Searchbar should show searchbar and suggestions based on current keyword 1`] = `
+<div
+  style={
+    Object {
+      "position": "absolute",
+      "zIndex": 100,
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "display": "inline-block",
+      }
+    }
+  >
+    <input
+      aria-autocomplete="list"
+      aria-expanded={false}
+      autoComplete="off"
+      onBlur={[Function]}
+      onChange={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      placeholder="Search for a place"
+      role="combobox"
+      style={
+        Object {
+          "fontSize": "16px",
+          "padding": "5px",
+          "width": "300px",
+        }
+      }
+      value="Ber"
+    />
+  </div>
+</div>
+`;

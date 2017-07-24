@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyPlacesItem should show the name of the place as a link 1`] = `
+<a
+  onClick={[Function]}
+  style={
+    Object {
+      "cursor": "pointer",
+      "display": "block",
+    }
+  }
+>
+  Berlin
+</a>
+`;
